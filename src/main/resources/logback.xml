@@ -21,7 +21,7 @@ Exemplo mostrando log no console
   
     <appender name="LogzioLogbackAppender" class="io.logz.logback.LogzioLogbackAppender">
       <!-- Replace these parameters with your configuration -->
-      <token>vfCxRokCctfNfskNkTrDzuUbASGvzmhn</token>
+      <token>SUA_CHAVE</token>
       <logzioUrl>https://listener.logz.io:8071</logzioUrl>
       <logzioType>INFO</logzioType>
   
